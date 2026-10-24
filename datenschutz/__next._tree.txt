@@ -1,0 +1,8 @@
+:HL["/amd-kfz/_next/static/chunks/0106exnct46s9.css","style"]
+:HL["/amd-kfz/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/amd-kfz/_next/static/media/65341aea9fb91af5-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/amd-kfz/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/amd-kfz/_next/static/media/e1f600cb732239d9-s.p.1mvr14jy3vxq7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"datenschutz","h":64,"c":"$Q2"}]]
+0:{"b":"-I3IyMtNEUmT2waj-zbPY","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
