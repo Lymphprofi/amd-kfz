@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
+import { asset } from "@/lib/asset";
 import { navItems, site } from "@/lib/site";
 import { PhoneLink } from "@/components/PhoneLink";
 
@@ -36,7 +37,7 @@ export function Header() {
       <div className="mx-auto flex min-h-[4.5rem] max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
         <Link href="/#start" className="shrink-0" onClick={() => setOpen(false)}>
           <Image
-            src="/logo.png"
+            src={asset("/logo.png")}
             alt="AMD Auto Motorrad Dienst"
             width={180}
             height={55}

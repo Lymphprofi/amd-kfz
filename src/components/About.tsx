@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { asset } from "@/lib/asset";
 import { site } from "@/lib/site";
 
 export function About() {
@@ -7,7 +8,7 @@ export function About() {
       <div className="mx-auto grid max-w-7xl items-center gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
         <div className="relative aspect-[4/5] overflow-hidden rounded-xl bg-white shadow-sm lg:aspect-[5/6]">
           <Image
-            src="/images/meister.png"
+            src={asset("/images/meister.png")}
             alt="Meister Davud Derichs in der AMD Werkstatt in Freiburg"
             fill
             className="object-cover object-[center_15%]"

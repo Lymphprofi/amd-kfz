@@ -1,13 +1,14 @@
 import Image from "next/image";
 import { Clock, MapPin } from "lucide-react";
 import { PhoneLink } from "@/components/PhoneLink";
+import { asset } from "@/lib/asset";
 import { site } from "@/lib/site";
 
 export function Hero() {
   return (
     <section id="start" className="relative isolate min-h-[92vh] scroll-mt-24 overflow-hidden bg-graphite">
       <Image
-        src="/images/hero-werkstatt.png"
+        src={asset("/images/hero-werkstatt.png")}
         alt="Saubere AMD Meisterwerkstatt in Freiburg mit PKW auf der Fläche"
         fill
         priority

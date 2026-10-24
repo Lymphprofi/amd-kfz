@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { asset } from "@/lib/asset";
 import { site } from "@/lib/site";
 
 export function Footer() {
@@ -8,7 +9,7 @@ export function Footer() {
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 md:grid-cols-3 lg:px-8">
         <div>
           <Image
-            src="/logo.png"
+            src={asset("/logo.png")}
             alt="AMD Auto Motorrad Dienst"
             width={160}
             height={49}
