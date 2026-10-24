@@ -5,4 +5,4 @@
 :HL["/amd-kfz/_next/static/media/e1f600cb732239d9-s.p.1mvr14jy3vxq7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"impressum","h":64,"c":"$Q2"}]]
-0:{"b":"-I3IyMtNEUmT2waj-zbPY","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"Byv4-4cD9RYAjPkYYTNSe","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

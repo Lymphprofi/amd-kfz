@@ -4,4 +4,4 @@
 :HL["/amd-kfz/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/amd-kfz/_next/static/media/e1f600cb732239d9-s.p.1mvr14jy3vxq7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"-I3IyMtNEUmT2waj-zbPY","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"Byv4-4cD9RYAjPkYYTNSe","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
